@@ -13,7 +13,7 @@ from sklearn.metrics import confusion_matrix
 
 import model as model
 import datapre as datapre
-import evaluation as evaluation
+
 
 
 def train():
